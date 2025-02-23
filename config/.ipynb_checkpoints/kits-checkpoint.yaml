@@ -1,0 +1,14 @@
+# Config file of amos dataset
+
+num_classes: 2
+labels:
+  1: kidney
+  2: kidney_tumor
+
+labels_small:
+  2: kidney_tumor
+
+labels_mid:
+  1: kidney
+
+labels_large:
